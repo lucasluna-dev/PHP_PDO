@@ -1,0 +1,2 @@
+  - Meus código feitos com exemplos de aulas que eu assito.
+  - Para executá-los basta apenas ter um servidor local e sua IDE de preferência.
