@@ -1,2 +1,2 @@
-  - Meus código feitos com exemplos de aulas que eu assito.
+  - Meus códigos feitos com exemplos de aulas que eu assisto.
   - Para executá-los basta apenas ter um servidor local e sua IDE de preferência.
