@@ -21,6 +21,7 @@
             
         }else if($nome && $sobrenome != ''){
             $sql = $pdo->prepare("INSERT INTO `tb_clientes` VALUES (null,?,?,?)");
+            // Excutando a query e confirmando o registro.
             $sql->execute(array($nome,$sobrenome,$momento_regisro));
             echo '<script>alert("Dados Registrados com Sucesso")</script>';
             
