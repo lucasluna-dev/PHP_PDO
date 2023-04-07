@@ -1,5 +1,7 @@
 <?php
 
+    //TABALHANDO COM INSERT E CONEXÃO DO BANCO DE DADOS
+
     //Aula 1 -> fazendo conecão com o mysql local
     $pdo = new PDO("mysql:host=localhost;dbname=pdo_jedai",'root','');
 
